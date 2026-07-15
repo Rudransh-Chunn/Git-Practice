@@ -1,0 +1,23 @@
+Aurora Café Project Notes
+
+Date: July 15, 2026
+
+Ideas:
+- Add a hero background image
+- Improve navigation bar
+- Create a menu section
+- Add customer reviews
+- Make the website mobile-friendly
+
+Git Commands Learned:
+- cd
+- ls
+-ls -a
+- git --version
+- git status
+- git add .
+- git commit -m "message"
+- git push origin main
+
+Next Goal:
+Learn how to create and merge branches.
